@@ -2,7 +2,6 @@
 categories = ["Food"]
 date = 2020-05-12T22:00:00Z
 description = "Test"
-draft = true
 image = "/images/masonary-post/post-4.jpg"
 tags = ["pasta"]
 title = "Test"
